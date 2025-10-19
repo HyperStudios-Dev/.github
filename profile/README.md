@@ -1,14 +1,14 @@
-# VanguardStudios Inc.
+# HyperStudios
 
 ## Chi siamo
-VanguardStudios Inc. è un'azienda all'avanguardia che sviluppa soluzioni innovative nel campo del [Web Development e Discord Bot Development]. Siamo appassionati di tecnologia e creiamo prodotti di alta qualità, mettendo al centro l'utente e l'innovazione.
+HyperStudios è un'azienda all'avanguardia che sviluppa soluzioni innovative nel campo del [Web Development e Discord Bot Development]. Siamo appassionati di tecnologia e creiamo prodotti di alta qualità, mettendo al centro l'utente e l'innovazione.
 
 ## Cosa facciamo
 **Sviluppo Web:** Creiamo siti web e applicazioni web performanti e responsive, utilizzando le tecnologie più recenti.
 **Sviluppo Discord:** Realizziamo app native e ibride per discord, offrendo un'esperienza utente fluida e coinvolgente.
 
 ## Come collaborare con noi
-[![Visita il nostro sito](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://hyperstudios.top/)
+[![Visita il nostro sito](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg)](https://hyperstudios.org/)
 [![Unisciti al nostro server Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discord.gg/WV8UUqG93W)
 
 ## Linguaggi e Tecnologie
